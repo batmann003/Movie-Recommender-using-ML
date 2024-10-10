@@ -1,1 +1,1 @@
-# Movie-Recommender-using-ML
+Developed a movie recommendation system using machine learning 
